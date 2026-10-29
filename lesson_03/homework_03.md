@@ -16,8 +16,8 @@
 
 | Поле | Значение |
 |---|---|
-| Адрес репозитория сайта |  |
-| Публичный адрес сайта |  |
+| Адрес репозитория сайта | https://github.com/Wek888/lab-ga4 |
+| Публичный адрес сайта | https://wek888.github.io/lab-ga4/about.html |
 | Статус публикации | READY / ERROR |
 | Analytics Account |  |
 | Property |  |
